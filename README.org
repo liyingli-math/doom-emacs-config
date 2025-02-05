@@ -1,0 +1,3 @@
+#+title: README
+
+These files should be placed at =~/.config/doom/=.
