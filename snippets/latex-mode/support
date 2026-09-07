@@ -1,0 +1,6 @@
+# name: support
+# key: spt
+# condition: (and (texmathp) 'auto)
+# group: math
+# --
+\\supp

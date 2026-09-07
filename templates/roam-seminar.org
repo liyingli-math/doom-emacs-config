@@ -1,0 +1,10 @@
+#+title: ${title}
+#+SETUPFILE: ../latex-preamble.org
+#+FILETAGS: :seminar:draft:
+- speaker :: %?
+- event/location :: 
+- ref/joint w. ::
+
+
+
+#+PRINT_BIBLIOGRAPHY: 

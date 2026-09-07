@@ -1,0 +1,6 @@
+# key: ccc
+# name: complactly embedded
+# condition: (and (texmathp) (quote auto))
+# group: math
+# --
+\subset\!\subset

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# key: prod
+# condition: (and (texmathp) (quote auto))
+# group: math
+# name: \prod_{n}^{}
+# --
+\prod_{$1}^{$2}$0

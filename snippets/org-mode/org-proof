@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: org-proof
+# key: prf
+# --
+@@latex:\begin{proof}@@
+$0
+@@latex:\end{proof}@@

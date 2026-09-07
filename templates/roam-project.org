@@ -1,0 +1,3 @@
+#+title: ${title}
+#+SETUPFILE: ../latex-preamble.org
+#+FILETAGS: :Project:

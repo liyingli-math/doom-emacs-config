@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# key: nnn
+# condition: (and (texmathp) (quote auto))
+# group: math
+# name: bigcap
+# --
+\bigcap_{$1 } $0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org-definition
+# key: def
+# --
+#+ATTR_LATEX: :options \label{${1:"waiting for reftex-label call..."$(unless yas-modified-p (reftex-label "definition" 'dont-insert))}}
+#+begin_definition
+$0
+#+end_definition

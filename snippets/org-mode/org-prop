@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org-prop
+# key: prp
+# --
+
+@@latex:\begin{proposition}${1:"waiting for label..."$(unless yas-modified-p (my/insert-latex-label-in-org "prop:" t))}@@
+$0
+@@latex:\end{proposition}@@

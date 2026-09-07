@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# key: o+
+# condition: (and (texmathp) (quote auto))
+# group: math
+# name: oplus
+# --
+\oplus

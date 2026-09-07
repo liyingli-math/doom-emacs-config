@@ -1,0 +1,8 @@
+#+title: ${title}
+#+SETUPFILE: ../latex-preamble.org
+#+FILETAGS: :meeting:
+- with whom :: %?
+- when :: [[roam:%<%Y-%m-%d>]]
+- where (project/location) ::
+
+

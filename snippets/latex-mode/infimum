@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: infimum
+# key: iinf
+# condition: (and (texmathp) 'auto)
+# group: math
+# --
+\\inf_{$1 } $0

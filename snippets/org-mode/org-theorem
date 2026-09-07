@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: org-theorem
+# key: thm
+# --
+@@latex:\begin{theorem}${1:"waiting for label..."$(unless yas-modified-p (my/insert-latex-label-in-org "thm:" t))}@@
+$0
+@@latex:\end{theorem}@@

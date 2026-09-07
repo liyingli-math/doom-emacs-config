@@ -1,0 +1,9 @@
+# key: mat12
+# name: bmatrix (2 x 1)
+# condition: (and (texmathp) 'auto)
+# group: math
+# --
+\\begin{bmatrix}
+${1:A}  \\\\
+${2:$1} 
+\\end{bmatrix}

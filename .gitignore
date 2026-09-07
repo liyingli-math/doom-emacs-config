@@ -1,0 +1,12 @@
+# This file is from org tangle
+config.el
+
+# machine local setting
+machine.el
+
+# sensitive personal info
+personal-info.el
+email-account-info.el
+elfeed.org
+
+

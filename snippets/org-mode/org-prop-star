@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: org-prop-star
+# key: *prp
+# --
+@@latex:\begin{proposition}@@
+$0
+@@latex:\end{proposition}@@

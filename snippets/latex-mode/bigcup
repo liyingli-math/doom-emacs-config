@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# key: uuu
+# condition: (and (texmathp) (quote auto))
+# group: math
+# name: bigcup
+# --
+\bigcup_{$1 } $0

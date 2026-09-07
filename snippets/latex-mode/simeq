@@ -1,0 +1,6 @@
+# key: ~=
+# name: simeq
+# condition: (and (texmathp) (quote auto))
+# group: math
+# --
+\simeq

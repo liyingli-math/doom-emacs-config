@@ -1,0 +1,12 @@
+#+title: ${citar-title}
+#+FILETAGS: :reading:research:
+#+SETUPFILE: ../latex-preamble.org
+- Author(s) :: ${citar-author}
+- date :: ${citar-date}
+%?
+* ${citar-title}
+:PROPERTIES:
+:Custom_ID: ${citar-citekey}
+:NOTER_DOCUMENT: ~/Nutstore/1/Nutstore/Zotero-Library/${citar-citekey}.pdf
+:NOTER_PAGE:
+:END:

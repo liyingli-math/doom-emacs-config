@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: org-theorem-star
+# key: *thm
+# --
+@@latex:\begin{theorem}@@
+$0
+@@latex:\end{theorem}@@

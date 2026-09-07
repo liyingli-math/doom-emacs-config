@@ -1,0 +1,10 @@
+# key: mat13
+# name: bmatrix (3 x 1)
+# condition: (and (texmathp) 'auto)
+# group: math
+# --
+\\begin{bmatrix}
+${1:A}  \\\\
+${2:$1} \\\\
+${3:$1}
+\\end{bmatrix}

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: org-lemma-star
+# key: *lem
+# --
+@@latex:\begin{lemma}@@
+$0
+@@latex:\end{lemma}@@

@@ -1,0 +1,5 @@
+(setq my/font-size 16)
+(setq my/org-latex-review-scale 1.25)
+(setq my/is-wm-p t)
+(setq my/org-noter-doc-split-fraction '(0.5 0.5))
+(setq my/set-transparent-background-p t)

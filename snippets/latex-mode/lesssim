@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lesssim
+# key: <~
+# condition: (and (texmathp) 'auto)
+# group: math
+# --
+\lesssim 
